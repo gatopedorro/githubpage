@@ -1,5 +1,6 @@
 {
   "name": "githubpage",
+  "homepage":"https://gatopedorro.github.io/githubpage/",
   "version": "0.1.0",
   "private": true,
   "scripts": {
